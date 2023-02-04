@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salvatrixx/qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/salvatrixx/qr-code)
+- Live Site URL: [Live Site](https://qr-code-rutiaaa.vercel.app/)
 
 ## My process
 
@@ -52,7 +52,7 @@ In the future I will make this site more responsive for mobile
 
 ### Useful resources
 
-- [Example resource 1](https://stackoverflow.com/questions/14123999/center-a-div-horizontally-and-vertically) - This helped me for centering the image vertically and horizontally
+- [Resource 1](https://stackoverflow.com/questions/14123999/center-a-div-horizontally-and-vertically) - This helped me for centering the image vertically and horizontally
 
 ## Author
 
