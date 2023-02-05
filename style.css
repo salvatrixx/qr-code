@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
-
 body {
+    font-family: Outfit, sans-serif;
     background-color: hsl(212, 45%, 89%);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    align-content: space-around;
+    min-height: 100vh;
+    margin: 0;
 }
 
 .container {
@@ -17,25 +18,33 @@ body {
     background-color: white;
     width: 300px;
     border-radius: 15px;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    padding: 15px;
 }
 
 img {
-    margin-left: auto;
-    margin-right: auto;
-    width: 91%;
-    margin-top: 12px;
     border-radius: 15px;
+    max-width: 100%;
+}
+
+h1,
+p {
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+h1 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
 }
 
 p {
-    padding: 0 10px;
-    text-align: center;
-    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin-bottom: 15px;
 }
 
 .attribution { 
@@ -48,16 +57,6 @@ p {
     color: hsl(228, 45%, 44%); 
 }
 
-.bold {
-    font-weight: 700;
-    color: hsl(218, 44%, 22%);
-    font-size: 22px;
-}
-
-.normal {
-    font-weight: 400;
-    font-size: 16px;
-    color: hsl(220, 15%, 55%);
-    margin-top: -10px;
-    margin-bottom: 30px;
+@media screen and (min-width: 375px) {
+    
 }
