@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Note](#note)
+- [Note](#note-to-myself)
 - [Author](#author)
 
 ## Overview
@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://github.com/salvatrixx/qr-code)
-- Live Site URL: [Live Site](https://qr-code-rutiaaa.vercel.app/)
+- Live Site URL: [Live Site](https://qr-code-tan.vercel.app/)
 
 ## My process
 
@@ -53,6 +53,6 @@ body{
 
 ## Author
 
--GitHub - [@salvatrixx](https://github.com/salvatrixx)
+- GitHub - [@salvatrixx](https://github.com/salvatrixx)
 - Frontend Mentor - [@erkatia](https://www.frontendmentor.io/profile/erkatia)
 - Twitter - [@salvatrix_x](https://twitter.com/salvatrix_x)
