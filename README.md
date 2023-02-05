@@ -10,8 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Note](#note)
 - [Author](#author)
 
 ## Overview
@@ -30,31 +29,30 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
 - Flexbox
 
 ### What I learned
 
-In this project I learned how to center a div vertically and horizontally using CSS with this code below:
+In this project I learned how to center .container using CSS flexbox with adding this code to body:
 
 ```css
-.container{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+body{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 ```
 
-### Continued development
+## Note to myself
 
-In the future I will make this site more responsive for mobile
-
-### Useful resources
-
-- [Example resource 1](https://stackoverflow.com/questions/14123999/center-a-div-horizontally-and-vertically) - This helped me for centering the image vertically and horizontally
+- Using Semantic HTML for accessibility
+- Use relative unit for padding, margin, width, and using rem for font-size
+- Use CSS variables for font-family, font-size, and colors
 
 ## Author
 
+-GitHub - [@salvatrixx](https://github.com/salvatrixx)
 - Frontend Mentor - [@erkatia](https://www.frontendmentor.io/profile/erkatia)
 - Twitter - [@salvatrix_x](https://twitter.com/salvatrix_x)
